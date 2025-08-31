@@ -42,10 +42,6 @@
   <img src="https://streak-stats.demolab.com?user=muhammar123a-debug&theme=radical" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammar123a-debug&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
