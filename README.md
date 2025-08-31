@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammar123a-debug&show_icons=true&theme=radical" height="180" />
-  <img src="https://streak-stats.demolab.com?user=muhammadammar4567&theme=radical" height="180" />
+  <img src="https://streak-stats.demolab.com?user=muhammar123a-debug&theme=radical" height="180" />
 </p>
 
 <p align="center">
