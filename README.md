@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">👋 Hi there! I'm Muhammad Ammar</h2>
-<h3 align="center">A passionate Backend Developer from Karachi, Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Data Scientist from Karachi, Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Developer;FastAPI+%7C+Python+%7C+MySQL;Exploring+MongoDB+%26+AWS;Open+to+Internships;Let's+Build+Together!🚀" alt="Typing SVG" />
@@ -15,10 +15,10 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 I'm currently learning **MySQL**, **MongoDB**
-- 🌱 Passionate about building scalable backend APIs
+- 💼 I'm currently learning **Pandas**, **Numpy**
+- 🌱 Passionate about cleaning dataset using pandnas
 - 🤝 Looking for **Internship opportunities** in backend development
-- 🧠 Exploring integration of backend with AI/ML in future
+- 🧠 Exploring Ml for transform clean data to ml Model
 - 📄 [Check out my resume here](https://drive.google.com/file/d/1k3oKBx9XFGsovdo2KqLEOlLRFC6McARA/view?usp=drive_link)
 - ⚡ Fun fact: *Sometimes I debug better in dreams than while awake 😅*
 
