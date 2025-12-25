@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Data Scientist from Karachi, Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Developer;FastAPI+%7C+Python+%7C+MySQL;Exploring+MongoDB+%26+AWS;Open+to+Internships;Let's+Build+Together!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=450&lines=Data+Scientist;FastAPI+%7C+pandas+%7C+numpy;Exploring+ML+%26+DL;Open+to+Internships;Let's+Build+Together!🚀" alt="Typing SVG" />
 </p>
 
 ---
